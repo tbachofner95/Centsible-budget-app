@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tbachofner95/Centsible-budget-app/static/css/main.2c819a67.css",
-    "main.js": "/tbachofner95/Centsible-budget-app/static/js/main.be022325.js",
+    "main.js": "/tbachofner95/Centsible-budget-app/static/js/main.15c8505c.js",
     "index.html": "/tbachofner95/Centsible-budget-app/index.html",
     "main.2c819a67.css.map": "/tbachofner95/Centsible-budget-app/static/css/main.2c819a67.css.map",
-    "main.be022325.js.map": "/tbachofner95/Centsible-budget-app/static/js/main.be022325.js.map"
+    "main.15c8505c.js.map": "/tbachofner95/Centsible-budget-app/static/js/main.15c8505c.js.map"
   },
   "entrypoints": [
     "static/css/main.2c819a67.css",
-    "static/js/main.be022325.js"
+    "static/js/main.15c8505c.js"
   ]
 }
