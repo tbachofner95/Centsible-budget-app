@@ -1,0 +1,36 @@
+.wrapper {
+  margin-top: 1.5rem;
+  background-color: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  max-width: 600px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.empty {
+  text-align: center;
+  color: #888;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.table td:last-child {
+  text-align: right;
+  font-weight: 500;
+}
